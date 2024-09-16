@@ -1,6 +1,6 @@
 main:
 
-  - title: `AceParse:` A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing
+  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
     authors: Huawei Ji, Cheng Deng, Bo Xue, Zhouyang Jin, <strong>Jiaxin Ding*</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang (*Corresponding authors)
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
