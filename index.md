@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a direct-entry Ph.D. candidate at the Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I began my studies in 2023. I have the honor of being supervised by [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Object Detection, Foundational Vision Models
+- **Natural Language Processing:** Retrieval Augmented Generation, Large Language Model
+- **Multimodal:** Document Understanding, Document Parsing
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Completed my first paper and submitted it to the ICASSP 2025 conference！
 
 {% include_relative _includes/publications.md %}
 
