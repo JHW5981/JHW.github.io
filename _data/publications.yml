@@ -4,7 +4,7 @@ main:
     authors: <strong>Huawei Ji</strong>, Cheng Deng, Bo Xue, Zhouyang Jin, <strong>Jiaxin Ding*</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang (*Corresponding authors)
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://github.com/JHW5981/AceParse
+    pdf: https://arxiv.org/pdf/2409.10016
     code: https://github.com/JHW5981/AceParse
     bibtex: https://github.com/JHW5981/AceParse/blob/master/aceparse.txt
     image: ./assets/img/aceparse.png
