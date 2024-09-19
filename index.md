@@ -10,7 +10,7 @@ I am a direct-entry Ph.D. candidate at the Acemap, IIOT Lab, at Shanghai Jiao To
 
 - **Computer Vision:** Object Detection, Foundational Vision Models
 - **Natural Language Processing:** Retrieval Augmented Generation, Large Language Model
-- **Multimodal:** Document Understanding, Document Parsing
+- **Large Visual Language Models:** Document Understanding, Document Parsing
 
 ## News
 
